@@ -23,3 +23,4 @@
 
 - App: `build/BitcoinMenu.app` · DMG: `dist/BitcoinMenu.dmg`
 - Build für die Architektur des jeweiligen Macs
+- [MIT](LICENSE)
