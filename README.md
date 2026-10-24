@@ -9,6 +9,7 @@
 - [Download](https://github.com/theophieln/BitcoinMenu/releases/latest) · Apple Silicon
 - DMG öffnen → App nach Programme ziehen
 - Lokale Signatur · Keine Apple-Notarisierung
+- Falls macOS den Start blockiert: Systemeinstellungen → Datenschutz & Sicherheit → Dennoch öffnen
 
 ## Build
 
